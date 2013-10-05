@@ -40,4 +40,4 @@ v1.0 (2013-10-05)
 ------------------
  - Project at GitHub [jacobemerck/scraper](https://github.com/jacobemerick/scraper)
  - Jacob Emerick [@jpemeric](http://twitter.com/jpemeric) [jacobemerick.com](http://home.jacobemerick.com/)
-  - Blog post explaining details [scraping a directory](http://blog.jacobemerick.com/web-development/archiving-aka-scraping-a-site/)
+ - Blog post explaining details [scraping a directory](http://blog.jacobemerick.com/web-development/archiving-aka-scraping-a-site/)
